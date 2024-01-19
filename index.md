@@ -16,3 +16,8 @@ def addition(x, y):
 
 addition(5, 6)
 ```
+
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
