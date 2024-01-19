@@ -6,3 +6,5 @@
 ###### Header 6
 
 I added the 6 different types of headers that Markdown has.
+
+[Manufacturetocat](https://octodex.github.com/images/manufacturetocat.png)
