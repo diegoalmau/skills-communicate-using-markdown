@@ -7,4 +7,4 @@
 
 I added the 6 different types of headers that Markdown has.
 
-[Manufacturetocat](https://octodex.github.com/images/manufacturetocat.png)
+![Manufacturetocat](https://octodex.github.com/images/manufacturetocat.png)
