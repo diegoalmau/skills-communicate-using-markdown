@@ -8,3 +8,11 @@
 I added the 6 different types of headers that Markdown has.
 
 ![Manufacturetocat](https://octodex.github.com/images/manufacturetocat.png)
+
+
+```python
+def addition(x, y):
+  return x + y
+
+addition(5, 6)
+```
